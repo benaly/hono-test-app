@@ -18,7 +18,7 @@ env:
   REGION: europe-west1
   REPOSITORY: hono-test-app
   SERVICE_BASE_NAME: hono-test-app
-  PROJECT_ID: hono-test-app-001
+  PROJECT_ID: hono-test-app-142
 
 jobs:
   deploy:
